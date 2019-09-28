@@ -1,5 +1,14 @@
 # tokyoR81
 
+* 資料(shinyapp.io で公開しているので同時アクセスきついかも)
+  * https://randpy-testserver.shinyapps.io/Slide/
+  * https://randpy-testserver.shinyapps.io/Slide2
+  * https://randpy-testserver.shinyapps.io/Slide3
+  * https://randpy-testserver.shinyapps.io/Slide4
+
+サンプルアプリ
+* https://randpy-testserver.shinyapps.io/latest_version/
+
 
 ## サンプルアプリの実行方法1
 
