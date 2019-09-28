@@ -1,6 +1,6 @@
 # tokyoR81
 
-* 資料(shinyapp.io で公開しているので同時アクセスきついかも)
+* 資料(shinyapp.io で公開しているので同時アクセスきついかも。同じ資料を4つデプロイしていますので、重たかったら違うページみてください）
   * https://randpy-testserver.shinyapps.io/Slide/
   * https://randpy-testserver.shinyapps.io/Slide2
   * https://randpy-testserver.shinyapps.io/Slide3
